@@ -34,3 +34,5 @@ tests/_support/_generated
 
 # image files
 /web/uploads
+
+/config/db.php
